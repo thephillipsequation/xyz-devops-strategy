@@ -1,4 +1,6 @@
+
 # XYZ Strategy to Kick Off And Scale
+
 | | | 
 |---|---|
 | **Project Title**	 | XYZ - Strategy to Kickoff then Scale |
@@ -52,7 +54,3 @@ When does it ship and what are the milestones?
 - [XYZ - Strategy to Kick-Off Then Scale Research Doc ](https://whimsical.com/xyz-strategy-to-kickoff-then-scale-653R4DcaJwCqNJVthHAaJf)
 - [XYZ - Now / Next / Later Milestone and Team Planning Doc](https://whimsical.com/xyz-now-next-later-5xydyAG2TpNYPD4ySWiWjp)
 - [XYZ - Pre-Mortem](https://whimsical.com/xyz-detailed-implementation-plan-KhybSdzyUh1fKdUcB3pxz8)
- 
-  
-
-
