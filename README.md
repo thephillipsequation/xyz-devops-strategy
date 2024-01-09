@@ -1,8 +1,9 @@
 # XYZ Strategy to Kick Off And Scale
 
-**Project Title**	XYZ - Strategy to Kickoff then Scale 
-**Author**	Joshua Phillips
-**Status** Draft
+|---|---|
+| **Project Title**	 | XYZ - Strategy to Kickoff then Scale |
+| **Author** | 	Joshua Phillips |
+| **Status** | Draft | 
 
 ### Description
 - This is a strategic plan to kick off and scale a DevOps / Cloud transformation journey for XYZ a fictional Fortune 100 Company. XYZ is a traditional on prem infrastructure shop that is interested in moving to the cloud as well as modernizing their product suite and architecture. 
