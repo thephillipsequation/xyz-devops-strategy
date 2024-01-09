@@ -1,5 +1,5 @@
 # XYZ Strategy to Kick Off And Scale
-
+| | | 
 |---|---|
 | **Project Title**	 | XYZ - Strategy to Kickoff then Scale |
 | **Author** | 	Joshua Phillips |
