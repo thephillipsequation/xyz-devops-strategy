@@ -1,6 +1,6 @@
-% XYZ - Strategic Plan for DevOps Transformation and Cloud Migration
-% Author: Josh Phillips
-% January 11, 2024
+# XYZ - Strategic Plan for DevOps Transformation and Cloud Migration
+#### Author: Josh Phillips
+#### January 11, 2024
 
 ---
 

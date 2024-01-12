@@ -6,8 +6,6 @@ WORKDIR /app
 # Install reveal-md globally
 RUN npm install -g reveal-md
 
-# Set an environment variable for the theme
-ENV THEME black
 
 # Copy the entrypoint script into the container
 COPY entrypoint.sh /entrypoint.sh

@@ -11,6 +11,10 @@ build:
 convert:
 	docker run --rm -v $(PWD):/app -e THEME=$(THEME) $(IMAGE_NAME) $(MARKDOWN_SLIDES)
 
+# Clean up the docs folder before running convert
+clean:
+
+
 # Help
 help:
 	@echo "Makefile commands:"

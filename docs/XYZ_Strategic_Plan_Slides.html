@@ -8,9 +8,24 @@
     <link rel="shortcut icon" href="./favicon.ico" />
     <link rel="stylesheet" href="./dist/reset.css" />
     <link rel="stylesheet" href="./dist/reveal.css" />
-    <link rel="stylesheet" href="./dist/theme/black.css" id="theme" />
+    <link rel="stylesheet" href="./dist/theme/night.css" id="theme" />
     <link rel="stylesheet" href="./css/highlight/base16/zenburn.css" />
-
+    <style>
+      /* Custom styles */
+      .reveal h1, .reveal h2, .reveal h3 {
+          font-family: 'Arial', sans-serif;
+          color: #0066cc;
+      }
+      .reveal section {
+          background: url('../img/background.png') no-repeat center center;
+          background-size: cover;
+      }
+      .reveal .highlighted {
+          background-color: yellow;
+          border-radius: 5px;
+          padding: 5px;
+      }
+  </style>
 
   </head>
   <body>
@@ -18,9 +33,9 @@
       <div class="slides">
         <section data-markdown data-separator="\r?\n---\r?\n" data-separator-vertical="\r?\n----\r?\n">
           <textarea data-template>
-            % XYZ - Strategic Plan for DevOps Transformation and Cloud Migration
-% Author: Josh Phillips
-% January 11, 2024
+            # XYZ - Strategic Plan for DevOps Transformation and Cloud Migration
+#### Author: Josh Phillips
+#### January 11, 2024
 
 ---
 
