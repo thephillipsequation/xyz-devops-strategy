@@ -6,8 +6,11 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
+# Use the environment variable for the theme, or default to 'black'
+THEME=${THEME:-black}
+
 # Convert the markdown to reveal.js presentation
 reveal-md "$1" --static docs
 
 # Move the output to the `docs` directory
-echo "Presentation generated in the /app/docs directory."
+echo "Presentation generated in the docs directory."

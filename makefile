@@ -1,6 +1,7 @@
 # Variables
 IMAGE_NAME=revealjs-converter
 MARKDOWN_SLIDES=XYZ_Strategic_Plan_Slides.md
+THEME=league
 
 # Build the Docker image
 build:
@@ -8,7 +9,7 @@ build:
 
 # Run the container to convert the markdown to reveal.js presentation
 convert:
-	docker run --rm -v $(PWD):/app $(IMAGE_NAME) $(MARKDOWN_SLIDES)
+	docker run --rm -v $(PWD):/app -e THEME=$(THEME) $(IMAGE_NAME) $(MARKDOWN_SLIDES)
 
 # Help
 help:
