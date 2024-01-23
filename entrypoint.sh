@@ -6,7 +6,7 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
-# Use the environment variable for the theme, or default to 'black'
+# Use the environment variable for the theme, or default to 'white'
 THEME=${THEME:-white}
 
 # Convert the markdown to reveal.js presentation
